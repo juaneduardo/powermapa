@@ -1,6 +1,3 @@
-powermapa
-=========
-
 SetUP PowerMapa
 ======
 
